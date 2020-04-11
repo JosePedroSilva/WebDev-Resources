@@ -2,4 +2,4 @@
 
 Fixed side bar with HTML and CSS
 
-![Sidebar](sideBar/img/sidebar.png)
+![Sidebar](../img/sidebar.png)
