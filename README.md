@@ -1,4 +1,4 @@
-# WebDev-Resources
+# Web development resources
 Compilation of various web development resource :nerd_face:
 
 ## Links:
