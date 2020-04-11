@@ -2,4 +2,4 @@
 
 Fixed side bar with HTML and CSS
 
-![Sidebar](https://github.com/JosePedroSilva/WebDev-Resources/blob/master/sideBar/img/sidebar.png)
+![Sidebar](https://github.com/JosePedroSilva/WebDev-Resources/blob/master/CSS_gradients/img/gradient.png)

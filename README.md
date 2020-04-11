@@ -6,6 +6,7 @@ Compilation of various web development resource :nerd_face:
 ## Code resources
 
 [Fixed sidebar](https://github.com/JosePedroSilva/WebDev-Resources/tree/master/sideBar)
+[Gradient effect](https://github.com/JosePedroSilva/WebDev-Resources/tree/master/CSS_gradients)
 
 ## Links
  
@@ -16,6 +17,8 @@ Compilation of various web development resource :nerd_face:
 -  [https://webplatform.github.io/docs/css/](https://webplatform.github.io/docs/css/) CSS information
 - [https://www.w3.org/Style/CSS/Overview.en.html](https://www.w3.org/Style/CSS/Overview.en.html) CSS docs
 -  [https://getbootstrap.com/](https://getbootstrap.com/) bootstrap
+- [https://cssgradient.io/](https://cssgradient.io/) gradient templates
+
 
 ### Images and placeholders
 -  [http://pt.gravatar.com/](http://pt.gravatar.com/) Avatar img source

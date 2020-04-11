@@ -6,7 +6,6 @@
 
 }
 
-
 /********************************
         Side bar
  ********************************/
@@ -15,7 +14,6 @@
     display: flex;
     position: relative;
 }
-
 
 .wrapper .sidebar{
     position: fixed;
