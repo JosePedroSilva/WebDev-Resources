@@ -1,6 +1,11 @@
 # Web development resources
 Compilation of various web development resource :nerd_face:
 
+## Code resources
+
+[Fixed sidebar](https://github.com/JosePedroSilva/WebDev-Resources/blob/master/sideBar/README.md)
+
+
 ## Links:
 
  - [https://codepen.io/](https://codepen.io/)
