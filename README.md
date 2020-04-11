@@ -5,8 +5,8 @@ Compilation of various web development resource :nerd_face:
 
 ## Code resources
 
-[Fixed sidebar](https://github.com/JosePedroSilva/WebDev-Resources/tree/master/sideBar)
-[Gradient effect](https://github.com/JosePedroSilva/WebDev-Resources/tree/master/CSS_gradients)
+- [Fixed sidebar](https://github.com/JosePedroSilva/WebDev-Resources/tree/master/sideBar)
+- [Gradient effect](https://github.com/JosePedroSilva/WebDev-Resources/tree/master/CSS_gradients)
 
 ## Links
  
