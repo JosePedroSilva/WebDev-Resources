@@ -1,7 +1,7 @@
 
 # Web development resources
 
-Compilation of various web development resource :nerd_face:
+Compilation of various web development resources :nerd_face:
 
 ## Code resources
 
