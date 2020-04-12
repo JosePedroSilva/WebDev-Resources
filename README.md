@@ -15,9 +15,12 @@ Compilation of various web development resources :nerd_face:
 -  [https://www.awwwards.com/](https://www.awwwards.com/) design ideas for web development
 -  [https://html5up.net/](https://html5up.net/) HTML5 site templates
 -  [https://webplatform.github.io/docs/css/](https://webplatform.github.io/docs/css/) CSS information
-- [https://www.w3.org/Style/CSS/Overview.en.html](https://www.w3.org/Style/CSS/Overview.en.html) CSS docs
+-  [https://www.w3.org/Style/CSS/Overview.en.html](https://www.w3.org/Style/CSS/Overview.en.html) CSS docs
 -  [https://getbootstrap.com/](https://getbootstrap.com/) bootstrap
-- [https://cssgradient.io/](https://cssgradient.io/) gradient templates
+-  [https://cssgradient.io/](https://cssgradient.io/) gradient templates
+-  [https://uigradients.com/](https://uigradients.com/) css gradients
+-  [https://color.adobe.com/pt/create/color-wheel/](https://color.adobe.com/pt/create/color-wheel/) Adobe color palette
+-  [https://markdotto.com/playground/3d-text/](https://markdotto.com/playground/3d-text/) 3D text
 
 
 ### Images and placeholders
@@ -35,4 +38,5 @@ Compilation of various web development resources :nerd_face:
 -  [https://htmlcheatsheet.com/](https://htmlcheatsheet.com/) HTML cheatsheet
 -  [https://hello-sunil.in/github-readme-markdown-cheatsheet/](https://hello-sunil.in/github-readme-markdown-cheatsheet/) article about the readme markdown
 -  [https://eloquentjavascript.net/](https://eloquentjavascript.net/) book about JavaScript, programming, and the wonders of the digital
+
  
