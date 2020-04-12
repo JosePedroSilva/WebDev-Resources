@@ -33,5 +33,6 @@ Compilation of various web development resources :nerd_face:
 -  [https://developer.mozilla.org/en-US/](https://developer.mozilla.org/en-US/) Resources for developers, by developers
 -  [https://caniuse.com/](https://caniuse.com/) Browser support tables for modern web technologies
 -  [https://htmlcheatsheet.com/](https://htmlcheatsheet.com/) HTML cheatsheet
--  [https://hello-sunil.in/github-readme-markdown-cheatsheet/](https://hello-sunil.in/github-readme-markdown-cheatsheet/) article about the readme masrkdown
+-  [https://hello-sunil.in/github-readme-markdown-cheatsheet/](https://hello-sunil.in/github-readme-markdown-cheatsheet/) article about the readme markdown
+-  [https://eloquentjavascript.net/](https://eloquentjavascript.net/) book about JavaScript, programming, and the wonders of the digital
  
