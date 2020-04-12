@@ -39,4 +39,10 @@ Compilation of various web development resources :nerd_face:
 -  [https://hello-sunil.in/github-readme-markdown-cheatsheet/](https://hello-sunil.in/github-readme-markdown-cheatsheet/) article about the readme markdown
 -  [https://eloquentjavascript.net/](https://eloquentjavascript.net/) book about JavaScript, programming, and the wonders of the digital
 
+
+<a href="https://github.com/JosePedroSilva/WebDev-Resources/graphs/contributors">
+  <img src="https://contributors-img.web.app/image?repo=JosePedroSilva/WebDev-Resources" />
+</a>
+
+Made with [contributors-img](https://contributors-img.web.app).
  
