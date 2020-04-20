@@ -28,6 +28,7 @@ Compilation of various web development resources :nerd_face:
 -  [https://placeimg.com/](https://placeimg.com/) for random image
 -  [https://placeholder.com/](https://placeholder.com/) placeholder img
 -  [https://fontawesome.com/](https://fontawesome.com/) icons provider
+-  [https://unsplash.com/](https://unsplash.com/) free images
 
 ### Info
 -  [https://codepen.io/](https://codepen.io/) social development environment for front-end designers and developers
