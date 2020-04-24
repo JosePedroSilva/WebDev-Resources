@@ -39,6 +39,8 @@ Compilation of various web development resources :nerd_face:
 -  [https://htmlcheatsheet.com/](https://htmlcheatsheet.com/) HTML cheatsheet
 -  [https://hello-sunil.in/github-readme-markdown-cheatsheet/](https://hello-sunil.in/github-readme-markdown-cheatsheet/) article about the readme markdown
 -  [https://eloquentjavascript.net/](https://eloquentjavascript.net/) book about JavaScript, programming, and the wonders of the digital
+-  [https://automatetheboringstuff.com/](https://automatetheboringstuff.com/) book about python
+-  [https://jsonlint.com/](https://jsonlint.com/) JSON validator
 
 ## Contributors
 <a href="https://github.com/JosePedroSilva/WebDev-Resources/graphs/contributors">
