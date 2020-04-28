@@ -4,11 +4,38 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Password Validation</title>
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.11.2/css/all.css">
+    <link href="https://fonts.googleapis.com/css?family=Montserrat&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="valid.css">
 </head>
 <body>
     
-    
+    <div class="container">
+        <input type="password" class="password" placeholder="Enter your Password" oninput="textChange()" required>
+        <i class="fas fa-eye" id="show_hide" onclick="showHide()"></i>
+        <p id="capital">
+            <i class="fas fa-times"></i>
+            <i class="fas fa-check"></i>
+            <span>Capital letters</span>
+        </p>
+        <p id="char">
+            <i class="fas fa-times"></i>
+            <i class="fas fa-check"></i>
+            <span>Special characters</span>
+        </p>
+        <p id="num">
+            <i class="fas fa-times"></i>
+            <i class="fas fa-check"></i>
+            <span>Using numbers</span>
+        </p>
+        <p id="more8">
+            <i class="fas fa-times"></i>
+            <i class="fas fa-check"></i>
+            <span>8+ characters</span>
+        </p>
+
+    </div>
+
     <script src="valid.js"></script>
 </body>
 </html>
