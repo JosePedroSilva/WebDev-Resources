@@ -7,6 +7,8 @@ Compilation of various web development resources :nerd_face:
 
 - [Fixed sidebar](https://github.com/JosePedroSilva/WebDev-Resources/tree/master/sideBar)
 - [Gradient effect](https://github.com/JosePedroSilva/WebDev-Resources/tree/master/CSS_gradients)
+- [Password validation](https://github.com/JosePedroSilva/WebDev-Resources/tree/master/validationPassword)
+
 
 ## Links
  
