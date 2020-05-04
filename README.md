@@ -23,7 +23,7 @@ Compilation of various web development resources :nerd_face:
 -  [https://uigradients.com/](https://uigradients.com/) css gradients
 -  [https://color.adobe.com/pt/create/color-wheel/](https://color.adobe.com/pt/create/color-wheel/) Adobe color palette
 -  [https://markdotto.com/playground/3d-text/](https://markdotto.com/playground/3d-text/) 3D text
-
+-  [https://www.cssmatic.com/box-shadow](https://www.cssmatic.com/box-shadow) box shadow generator and other css features
 
 ### Images and placeholders
 -  [http://pt.gravatar.com/](http://pt.gravatar.com/) Avatar img source
