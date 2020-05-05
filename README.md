@@ -32,6 +32,7 @@ Compilation of various web development resources :nerd_face:
 -  [https://fontawesome.com/](https://fontawesome.com/) icons provider
 -  [https://icon-icons.com/](https://icon-icons.com/) icons provider
 -  [https://unsplash.com/](https://unsplash.com/) free images
+-  [https://www.pexels.com/](https://www.pexels.com/) free images
 
 ### Info
 -  [https://codepen.io/](https://codepen.io/) social development environment for front-end designers and developers
