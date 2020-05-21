@@ -35,6 +35,7 @@ Compilation of various web development resources :nerd_face:
 -  [https://iconmonstr.com/](https://iconmonstr.com/) icons provider
 -  [https://unsplash.com/](https://unsplash.com/) free images
 -  [https://www.pexels.com/](https://www.pexels.com/) free images
+-  [https://undraw.co/](https://undraw.co/) free illustrations
 
 ### Info
 -  [https://codepen.io/](https://codepen.io/) social development environment for front-end designers and developers
