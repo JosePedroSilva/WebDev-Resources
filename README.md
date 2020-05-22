@@ -37,6 +37,10 @@ Compilation of various web development resources :nerd_face:
 -  [https://www.pexels.com/](https://www.pexels.com/) free images
 -  [https://undraw.co/](https://undraw.co/) free illustrations
 
+### Tools
+-  [Tinypng](https://tinypng.com/) Reduces the img size
+
+
 ### Info
 -  [https://codepen.io/](https://codepen.io/) social development environment for front-end designers and developers
 -  [https://codesandbox.io/](https://codesandbox.io/) IDE and prototyping tool for rapid web development
