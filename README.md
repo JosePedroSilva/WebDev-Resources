@@ -25,6 +25,8 @@ Compilation of various web development resources :nerd_face:
 -  [Markdotto](https://markdotto.com/playground/3d-text/) 3D text
 -  [CSSmatic](https://www.cssmatic.com/box-shadow) box shadow generator and other css features
 -  [Easings](https://easings.net/) CSS Easing functions cheat sheet
+-  [Colorsinspo](https://colorsinspo.com/) Color palette
+
 
 ### Images and placeholders
 -  [Gravatar](http://pt.gravatar.com/) Avatar img source
