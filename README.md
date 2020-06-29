@@ -26,6 +26,7 @@ Compilation of various web development resources :nerd_face:
 -  [CSSmatic](https://www.cssmatic.com/box-shadow) box shadow generator and other css features
 -  [Easings](https://easings.net/) CSS Easing functions cheat sheet
 -  [Colorsinspo](https://colorsinspo.com/) Color palette
+-  [fontjoy](https://fontjoy.com/)
 
 
 ### Images and placeholders
